@@ -1,0 +1,15 @@
+Results based on MAY-2024
+
+Question 1:
+Yellow Taxi with 3.72 million
+
+Question 2:
+Trips with more than 3 passengers:
+Green Taxi - 2922, Yellow Taxi - 112853
+
+Yellow Taxi had more trips of this kind
+
+Question 3:
+Green Taxi - 2066, Yellow Taxi - 298954
+
+Yellow Taxi had more instances of these trips

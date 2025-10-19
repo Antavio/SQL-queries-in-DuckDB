@@ -1,0 +1,530 @@
+2025-10-05 19:46:17,899 - INFO - Starting pipeline from 2015 to 2025
+2025-10-05 19:46:17,899 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-01.parquet
+2025-10-05 19:48:36,674 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-01.parquet into yellow_taxi_trip_data
+2025-10-05 19:48:36,674 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-01.parquet
+2025-10-05 19:49:10,909 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-01.parquet into green_taxi_trip_data
+2025-10-05 19:49:10,909 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-02.parquet
+2025-10-05 19:51:24,885 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-02.parquet into yellow_taxi_trip_data
+2025-10-05 19:51:24,885 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-02.parquet
+2025-10-05 19:51:48,743 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-02.parquet into green_taxi_trip_data
+2025-10-05 19:51:48,743 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-03.parquet
+2025-10-05 19:54:51,562 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-03.parquet into yellow_taxi_trip_data
+2025-10-05 19:54:51,562 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-03.parquet
+2025-10-05 19:55:27,275 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-03.parquet into green_taxi_trip_data
+2025-10-05 19:55:27,275 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-04.parquet
+2025-10-05 19:58:10,357 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-04.parquet into yellow_taxi_trip_data
+2025-10-05 19:58:10,357 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-04.parquet
+2025-10-05 19:58:49,616 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-04.parquet into green_taxi_trip_data
+2025-10-05 19:58:49,616 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-05.parquet
+2025-10-05 20:01:29,185 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-05.parquet into yellow_taxi_trip_data
+2025-10-05 20:01:29,185 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-05.parquet
+2025-10-05 20:02:23,411 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-05.parquet into green_taxi_trip_data
+2025-10-05 20:02:23,411 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-06.parquet
+2025-10-05 20:04:38,056 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-06.parquet into yellow_taxi_trip_data
+2025-10-05 20:04:38,056 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-06.parquet
+2025-10-05 20:05:26,820 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-06.parquet into green_taxi_trip_data
+2025-10-05 20:05:26,820 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-07.parquet
+2025-10-05 20:07:52,002 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-07.parquet into yellow_taxi_trip_data
+2025-10-05 20:07:52,002 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-07.parquet
+2025-10-05 20:08:18,405 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-07.parquet into green_taxi_trip_data
+2025-10-05 20:08:18,405 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-08.parquet
+2025-10-05 20:10:09,760 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-08.parquet into yellow_taxi_trip_data
+2025-10-05 20:10:09,760 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-08.parquet
+2025-10-05 20:10:58,371 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-08.parquet into green_taxi_trip_data
+2025-10-05 20:10:58,371 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-09.parquet
+2025-10-05 20:13:00,071 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-09.parquet into yellow_taxi_trip_data
+2025-10-05 20:13:00,071 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-09.parquet
+2025-10-05 20:13:32,740 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-09.parquet into green_taxi_trip_data
+2025-10-05 20:13:32,740 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-10.parquet
+2025-10-05 20:15:36,922 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-10.parquet into yellow_taxi_trip_data
+2025-10-05 20:15:36,922 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-10.parquet
+2025-10-05 20:16:05,972 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-10.parquet into green_taxi_trip_data
+2025-10-05 20:16:05,972 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-11.parquet
+2025-10-05 20:17:56,640 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-11.parquet into yellow_taxi_trip_data
+2025-10-05 20:17:56,640 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-11.parquet
+2025-10-05 20:18:15,219 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-11.parquet into green_taxi_trip_data
+2025-10-05 20:18:15,219 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-12.parquet
+2025-10-05 20:20:02,039 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-12.parquet into yellow_taxi_trip_data
+2025-10-05 20:20:02,039 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-12.parquet
+2025-10-05 20:20:19,951 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2015-12.parquet into green_taxi_trip_data
+2025-10-05 20:20:19,951 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-01.parquet
+2025-10-05 20:21:57,388 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-01.parquet into yellow_taxi_trip_data
+2025-10-05 20:21:57,388 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-01.parquet
+2025-10-05 20:22:14,857 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-01.parquet into green_taxi_trip_data
+2025-10-05 20:22:14,857 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-02.parquet
+2025-10-05 20:24:01,609 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-02.parquet into yellow_taxi_trip_data
+2025-10-05 20:24:01,609 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-02.parquet
+2025-10-05 20:24:19,792 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-02.parquet into green_taxi_trip_data
+2025-10-05 20:24:19,792 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-03.parquet
+2025-10-05 20:26:15,017 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-03.parquet into yellow_taxi_trip_data
+2025-10-05 20:26:15,033 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-03.parquet
+2025-10-05 20:26:39,623 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-03.parquet into green_taxi_trip_data
+2025-10-05 20:26:39,623 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-04.parquet
+2025-10-05 20:28:35,743 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-04.parquet into yellow_taxi_trip_data
+2025-10-05 20:28:35,743 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-04.parquet
+2025-10-05 20:28:56,101 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-04.parquet into green_taxi_trip_data
+2025-10-05 20:28:56,101 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-05.parquet
+2025-10-05 20:30:44,988 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-05.parquet into yellow_taxi_trip_data
+2025-10-05 20:30:44,988 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-05.parquet
+2025-10-05 20:31:13,486 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-05.parquet into green_taxi_trip_data
+2025-10-05 20:31:13,486 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-06.parquet
+2025-10-05 20:33:13,457 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-06.parquet into yellow_taxi_trip_data
+2025-10-05 20:33:13,457 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-06.parquet
+2025-10-05 20:33:35,063 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-06.parquet into green_taxi_trip_data
+2025-10-05 20:33:35,063 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-07.parquet
+2025-10-05 20:35:28,963 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-07.parquet into yellow_taxi_trip_data
+2025-10-05 20:35:28,963 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-07.parquet
+2025-10-05 20:35:55,041 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-07.parquet into green_taxi_trip_data
+2025-10-05 20:35:55,041 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-08.parquet
+2025-10-05 20:37:48,765 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-08.parquet into yellow_taxi_trip_data
+2025-10-05 20:37:48,765 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-08.parquet
+2025-10-05 20:38:10,138 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-08.parquet into green_taxi_trip_data
+2025-10-05 20:38:10,138 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-09.parquet
+2025-10-05 20:40:09,379 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-09.parquet into yellow_taxi_trip_data
+2025-10-05 20:40:09,379 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-09.parquet
+2025-10-05 20:40:29,910 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-09.parquet into green_taxi_trip_data
+2025-10-05 20:40:29,910 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-10.parquet
+2025-10-05 20:42:34,759 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-10.parquet into yellow_taxi_trip_data
+2025-10-05 20:42:34,759 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-10.parquet
+2025-10-05 20:42:55,275 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-10.parquet into green_taxi_trip_data
+2025-10-05 20:42:55,275 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-11.parquet
+2025-10-05 20:44:49,891 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-11.parquet into yellow_taxi_trip_data
+2025-10-05 20:44:49,891 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-11.parquet
+2025-10-05 20:45:12,709 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-11.parquet into green_taxi_trip_data
+2025-10-05 20:45:12,709 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-12.parquet
+2025-10-05 20:47:10,663 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2016-12.parquet into yellow_taxi_trip_data
+2025-10-05 20:47:10,663 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-12.parquet
+2025-10-05 20:47:38,234 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2016-12.parquet into green_taxi_trip_data
+2025-10-05 20:47:38,234 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-01.parquet
+2025-10-05 20:49:36,911 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-01.parquet into yellow_taxi_trip_data
+2025-10-05 20:49:36,911 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-01.parquet
+2025-10-05 20:49:51,675 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-01.parquet into green_taxi_trip_data
+2025-10-05 20:49:51,675 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-02.parquet
+2025-10-05 20:51:49,168 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-02.parquet into yellow_taxi_trip_data
+2025-10-05 20:51:49,168 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-02.parquet
+2025-10-05 20:52:24,493 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-02.parquet into green_taxi_trip_data
+2025-10-05 20:52:24,493 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-03.parquet
+2025-10-05 20:54:24,146 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-03.parquet into yellow_taxi_trip_data
+2025-10-05 20:54:24,146 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-03.parquet
+2025-10-05 20:54:38,507 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-03.parquet into green_taxi_trip_data
+2025-10-05 20:54:38,507 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-04.parquet
+2025-10-05 20:56:22,196 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-04.parquet into yellow_taxi_trip_data
+2025-10-05 20:56:22,196 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-04.parquet
+2025-10-05 20:56:39,932 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-04.parquet into green_taxi_trip_data
+2025-10-05 20:56:39,932 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-05.parquet
+2025-10-05 20:58:18,062 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-05.parquet into yellow_taxi_trip_data
+2025-10-05 20:58:18,062 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-05.parquet
+2025-10-05 20:58:38,951 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-05.parquet into green_taxi_trip_data
+2025-10-05 20:58:38,951 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-06.parquet
+2025-10-05 21:00:14,149 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-06.parquet into yellow_taxi_trip_data
+2025-10-05 21:00:14,149 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-06.parquet
+2025-10-05 21:00:27,354 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-06.parquet into green_taxi_trip_data
+2025-10-05 21:00:27,354 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-07.parquet
+2025-10-05 21:01:47,644 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-07.parquet into yellow_taxi_trip_data
+2025-10-05 21:01:47,644 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-07.parquet
+2025-10-05 21:02:01,161 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-07.parquet into green_taxi_trip_data
+2025-10-05 21:02:01,161 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-08.parquet
+2025-10-05 21:03:44,044 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-08.parquet into yellow_taxi_trip_data
+2025-10-05 21:03:44,044 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-08.parquet
+2025-10-05 21:03:56,871 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-08.parquet into green_taxi_trip_data
+2025-10-05 21:03:56,871 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-09.parquet
+2025-10-05 21:05:35,744 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-09.parquet into yellow_taxi_trip_data
+2025-10-05 21:05:35,744 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-09.parquet
+2025-10-05 21:05:49,901 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-09.parquet into green_taxi_trip_data
+2025-10-05 21:05:49,901 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-10.parquet
+2025-10-05 21:07:30,732 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-10.parquet into yellow_taxi_trip_data
+2025-10-05 21:07:30,732 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-10.parquet
+2025-10-05 21:07:50,750 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-10.parquet into green_taxi_trip_data
+2025-10-05 21:07:50,750 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-11.parquet
+2025-10-05 21:09:43,845 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-11.parquet into yellow_taxi_trip_data
+2025-10-05 21:09:43,845 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-11.parquet
+2025-10-05 21:10:10,837 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-11.parquet into green_taxi_trip_data
+2025-10-05 21:10:10,837 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-12.parquet
+2025-10-05 21:11:53,168 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2017-12.parquet into yellow_taxi_trip_data
+2025-10-05 21:11:53,168 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-12.parquet
+2025-10-05 21:12:08,596 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2017-12.parquet into green_taxi_trip_data
+2025-10-05 21:12:08,596 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-01.parquet
+2025-10-05 21:14:09,178 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-01.parquet into yellow_taxi_trip_data
+2025-10-05 21:14:09,178 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-01.parquet
+2025-10-05 21:14:29,804 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-01.parquet into green_taxi_trip_data
+2025-10-05 21:14:29,804 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-02.parquet
+2025-10-05 21:16:14,163 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-02.parquet into yellow_taxi_trip_data
+2025-10-05 21:16:14,163 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-02.parquet
+2025-10-05 21:16:35,727 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-02.parquet into green_taxi_trip_data
+2025-10-05 21:16:35,727 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-03.parquet
+2025-10-05 21:18:30,184 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-03.parquet into yellow_taxi_trip_data
+2025-10-05 21:18:30,184 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-03.parquet
+2025-10-05 21:18:45,152 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-03.parquet into green_taxi_trip_data
+2025-10-05 21:18:45,152 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-04.parquet
+2025-10-05 21:20:22,198 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-04.parquet into yellow_taxi_trip_data
+2025-10-05 21:20:22,198 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-04.parquet
+2025-10-05 21:20:35,057 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-04.parquet into green_taxi_trip_data
+2025-10-05 21:20:35,057 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-05.parquet
+2025-10-05 21:22:12,080 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-05.parquet into yellow_taxi_trip_data
+2025-10-05 21:22:12,080 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-05.parquet
+2025-10-05 21:22:27,824 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-05.parquet into green_taxi_trip_data
+2025-10-05 21:22:27,824 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-06.parquet
+2025-10-05 21:24:02,412 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-06.parquet into yellow_taxi_trip_data
+2025-10-05 21:24:02,412 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-06.parquet
+2025-10-05 21:24:16,239 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-06.parquet into green_taxi_trip_data
+2025-10-05 21:24:16,239 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-07.parquet
+2025-10-05 21:25:51,896 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-07.parquet into yellow_taxi_trip_data
+2025-10-05 21:25:51,896 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-07.parquet
+2025-10-05 21:26:07,319 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-07.parquet into green_taxi_trip_data
+2025-10-05 21:26:07,319 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-08.parquet
+2025-10-05 21:27:32,006 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-08.parquet into yellow_taxi_trip_data
+2025-10-05 21:27:32,006 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-08.parquet
+2025-10-05 21:27:57,978 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-08.parquet into green_taxi_trip_data
+2025-10-05 21:27:57,978 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-09.parquet
+2025-10-05 21:29:29,955 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-09.parquet into yellow_taxi_trip_data
+2025-10-05 21:29:29,955 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-09.parquet
+2025-10-05 21:30:00,786 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-09.parquet into green_taxi_trip_data
+2025-10-05 21:30:00,786 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-10.parquet
+2025-10-05 21:31:46,751 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-10.parquet into yellow_taxi_trip_data
+2025-10-05 21:31:46,751 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-10.parquet
+2025-10-05 21:31:58,543 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-10.parquet into green_taxi_trip_data
+2025-10-05 21:31:58,543 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-11.parquet
+2025-10-05 21:33:20,279 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-11.parquet into yellow_taxi_trip_data
+2025-10-05 21:33:20,279 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-11.parquet
+2025-10-05 21:33:33,389 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-11.parquet into green_taxi_trip_data
+2025-10-05 21:33:33,389 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-12.parquet
+2025-10-05 21:34:51,953 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2018-12.parquet into yellow_taxi_trip_data
+2025-10-05 21:34:51,953 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-12.parquet
+2025-10-05 21:35:02,650 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2018-12.parquet into green_taxi_trip_data
+2025-10-05 21:35:02,650 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-01.parquet
+2025-10-05 21:36:15,323 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-01.parquet into yellow_taxi_trip_data
+2025-10-05 21:36:15,323 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-01.parquet
+2025-10-05 21:36:29,460 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-01.parquet into green_taxi_trip_data
+2025-10-05 21:36:29,460 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-02.parquet
+2025-10-05 21:37:48,410 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-02.parquet into yellow_taxi_trip_data
+2025-10-05 21:37:48,410 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-02.parquet
+2025-10-05 21:37:58,880 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-02.parquet into green_taxi_trip_data
+2025-10-05 21:37:58,880 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-03.parquet
+2025-10-05 21:39:48,235 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-03.parquet into yellow_taxi_trip_data
+2025-10-05 21:39:48,235 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-03.parquet
+2025-10-05 21:39:59,342 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-03.parquet into green_taxi_trip_data
+2025-10-05 21:39:59,342 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-04.parquet
+2025-10-05 21:41:18,358 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-04.parquet into yellow_taxi_trip_data
+2025-10-05 21:41:18,358 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-04.parquet
+2025-10-05 21:41:29,915 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-04.parquet into green_taxi_trip_data
+2025-10-05 21:41:29,915 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-05.parquet
+2025-10-05 21:43:00,582 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-05.parquet into yellow_taxi_trip_data
+2025-10-05 21:43:00,582 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-05.parquet
+2025-10-05 21:43:09,509 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-05.parquet into green_taxi_trip_data
+2025-10-05 21:43:09,509 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-06.parquet
+2025-10-05 21:44:21,506 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-06.parquet into yellow_taxi_trip_data
+2025-10-05 21:44:21,506 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-06.parquet
+2025-10-05 21:44:31,548 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-06.parquet into green_taxi_trip_data
+2025-10-05 21:44:31,548 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-07.parquet
+2025-10-05 21:45:41,561 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-07.parquet into yellow_taxi_trip_data
+2025-10-05 21:45:41,561 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-07.parquet
+2025-10-05 21:45:49,687 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-07.parquet into green_taxi_trip_data
+2025-10-05 21:45:49,687 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-08.parquet
+2025-10-05 21:46:53,687 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-08.parquet into yellow_taxi_trip_data
+2025-10-05 21:46:53,687 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-08.parquet
+2025-10-05 21:47:01,731 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-08.parquet into green_taxi_trip_data
+2025-10-05 21:47:01,731 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-09.parquet
+2025-10-05 21:48:15,913 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-09.parquet into yellow_taxi_trip_data
+2025-10-05 21:48:15,913 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-09.parquet
+2025-10-05 21:48:23,593 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-09.parquet into green_taxi_trip_data
+2025-10-05 21:48:23,593 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-10.parquet
+2025-10-05 21:49:37,730 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-10.parquet into yellow_taxi_trip_data
+2025-10-05 21:49:37,730 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-10.parquet
+2025-10-05 21:49:46,373 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-10.parquet into green_taxi_trip_data
+2025-10-05 21:49:46,373 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-11.parquet
+2025-10-05 21:50:57,453 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-11.parquet into yellow_taxi_trip_data
+2025-10-05 21:50:57,453 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-11.parquet
+2025-10-05 21:51:05,577 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-11.parquet into green_taxi_trip_data
+2025-10-05 21:51:05,577 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-12.parquet
+2025-10-05 21:52:18,472 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-12.parquet into yellow_taxi_trip_data
+2025-10-05 21:52:18,472 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-12.parquet
+2025-10-05 21:52:27,228 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-12.parquet into green_taxi_trip_data
+2025-10-05 21:52:27,228 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-01.parquet
+2025-10-05 21:53:29,975 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-01.parquet into yellow_taxi_trip_data
+2025-10-05 21:53:29,975 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-01.parquet
+2025-10-05 21:53:38,943 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-01.parquet into green_taxi_trip_data
+2025-10-05 21:53:38,943 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-02.parquet
+2025-10-05 21:54:38,583 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-02.parquet into yellow_taxi_trip_data
+2025-10-05 21:54:38,583 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-02.parquet
+2025-10-05 21:54:48,384 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-02.parquet into green_taxi_trip_data
+2025-10-05 21:54:48,384 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-03.parquet
+2025-10-05 21:55:23,721 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-03.parquet into yellow_taxi_trip_data
+2025-10-05 21:55:23,721 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-03.parquet
+2025-10-05 21:55:31,982 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-03.parquet into green_taxi_trip_data
+2025-10-05 21:55:31,982 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-04.parquet
+2025-10-05 21:55:38,037 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-04.parquet into yellow_taxi_trip_data
+2025-10-05 21:55:38,037 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-04.parquet
+2025-10-05 21:55:43,244 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-04.parquet into green_taxi_trip_data
+2025-10-05 21:55:43,244 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-05.parquet
+2025-10-05 21:55:50,516 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-05.parquet into yellow_taxi_trip_data
+2025-10-05 21:55:50,516 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-05.parquet
+2025-10-05 21:55:53,496 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-05.parquet into green_taxi_trip_data
+2025-10-05 21:55:53,496 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-06.parquet
+2025-10-05 21:56:05,183 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-06.parquet into yellow_taxi_trip_data
+2025-10-05 21:56:05,183 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-06.parquet
+2025-10-05 21:56:09,529 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-06.parquet into green_taxi_trip_data
+2025-10-05 21:56:09,529 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-07.parquet
+2025-10-05 21:56:22,737 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-07.parquet into yellow_taxi_trip_data
+2025-10-05 21:56:22,737 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-07.parquet
+2025-10-05 21:56:26,748 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-07.parquet into green_taxi_trip_data
+2025-10-05 21:56:26,748 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-08.parquet
+2025-10-05 21:56:41,008 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-08.parquet into yellow_taxi_trip_data
+2025-10-05 21:56:41,008 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-08.parquet
+2025-10-05 21:56:45,379 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-08.parquet into green_taxi_trip_data
+2025-10-05 21:56:45,379 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-09.parquet
+2025-10-05 21:57:04,748 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-09.parquet into yellow_taxi_trip_data
+2025-10-05 21:57:04,748 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-09.parquet
+2025-10-05 21:57:09,330 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-09.parquet into green_taxi_trip_data
+2025-10-05 21:57:09,330 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-10.parquet
+2025-10-05 21:57:29,585 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-10.parquet into yellow_taxi_trip_data
+2025-10-05 21:57:29,585 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-10.parquet
+2025-10-05 21:57:34,369 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-10.parquet into green_taxi_trip_data
+2025-10-05 21:57:34,369 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-11.parquet
+2025-10-05 21:57:54,103 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-11.parquet into yellow_taxi_trip_data
+2025-10-05 21:57:54,103 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-11.parquet
+2025-10-05 21:57:58,857 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-11.parquet into green_taxi_trip_data
+2025-10-05 21:57:58,857 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-12.parquet
+2025-10-05 21:58:15,613 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-12.parquet into yellow_taxi_trip_data
+2025-10-05 21:58:15,613 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-12.parquet
+2025-10-05 21:58:19,864 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-12.parquet into green_taxi_trip_data
+2025-10-05 21:58:19,864 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-01.parquet
+2025-10-05 21:58:41,212 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-01.parquet into yellow_taxi_trip_data
+2025-10-05 21:58:41,212 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-01.parquet
+2025-10-05 21:58:44,220 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-01.parquet into green_taxi_trip_data
+2025-10-05 21:58:44,220 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-02.parquet
+2025-10-05 21:59:01,710 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-02.parquet into yellow_taxi_trip_data
+2025-10-05 21:59:01,710 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-02.parquet
+2025-10-05 21:59:04,875 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-02.parquet into green_taxi_trip_data
+2025-10-05 21:59:04,875 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-03.parquet
+2025-10-05 21:59:27,208 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-03.parquet into yellow_taxi_trip_data
+2025-10-05 21:59:27,208 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-03.parquet
+2025-10-05 21:59:32,202 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-03.parquet into green_taxi_trip_data
+2025-10-05 21:59:32,202 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-04.parquet
+2025-10-05 21:59:57,676 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-04.parquet into yellow_taxi_trip_data
+2025-10-05 21:59:57,676 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-04.parquet
+2025-10-05 22:00:00,764 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-04.parquet into green_taxi_trip_data
+2025-10-05 22:00:00,764 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-05.parquet
+2025-10-05 22:00:34,575 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-05.parquet into yellow_taxi_trip_data
+2025-10-05 22:00:34,575 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-05.parquet
+2025-10-05 22:00:38,218 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-05.parquet into green_taxi_trip_data
+2025-10-05 22:00:38,218 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-06.parquet
+2025-10-05 22:01:14,821 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-06.parquet into yellow_taxi_trip_data
+2025-10-05 22:01:14,821 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-06.parquet
+2025-10-05 22:01:19,570 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-06.parquet into green_taxi_trip_data
+2025-10-05 22:01:19,570 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-07.parquet
+2025-10-05 22:01:52,739 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-07.parquet into yellow_taxi_trip_data
+2025-10-05 22:01:52,739 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-07.parquet
+2025-10-05 22:01:56,944 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-07.parquet into green_taxi_trip_data
+2025-10-05 22:01:56,944 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-08.parquet
+2025-10-05 22:02:28,380 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-08.parquet into yellow_taxi_trip_data
+2025-10-05 22:02:28,380 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-08.parquet
+2025-10-05 22:02:33,299 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-08.parquet into green_taxi_trip_data
+2025-10-05 22:02:33,299 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-09.parquet
+2025-10-05 22:03:11,861 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-09.parquet into yellow_taxi_trip_data
+2025-10-05 22:03:11,861 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-09.parquet
+2025-10-05 22:03:16,606 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-09.parquet into green_taxi_trip_data
+2025-10-05 22:03:16,606 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-10.parquet
+2025-10-05 22:03:58,194 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-10.parquet into yellow_taxi_trip_data
+2025-10-05 22:03:58,194 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-10.parquet
+2025-10-05 22:04:02,815 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-10.parquet into green_taxi_trip_data
+2025-10-05 22:04:02,815 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-11.parquet
+2025-10-05 22:04:44,548 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-11.parquet into yellow_taxi_trip_data
+2025-10-05 22:04:44,548 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-11.parquet
+2025-10-05 22:04:48,257 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-11.parquet into green_taxi_trip_data
+2025-10-05 22:04:48,257 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-12.parquet
+2025-10-05 22:05:26,278 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-12.parquet into yellow_taxi_trip_data
+2025-10-05 22:05:26,278 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-12.parquet
+2025-10-05 22:05:31,217 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2021-12.parquet into green_taxi_trip_data
+2025-10-05 22:05:31,217 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-01.parquet
+2025-10-05 22:05:59,740 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-01.parquet into yellow_taxi_trip_data
+2025-10-05 22:05:59,740 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-01.parquet
+2025-10-05 22:06:02,796 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-01.parquet into green_taxi_trip_data
+2025-10-05 22:06:02,796 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-02.parquet
+2025-10-05 22:06:36,655 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-02.parquet into yellow_taxi_trip_data
+2025-10-05 22:06:36,655 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-02.parquet
+2025-10-05 22:06:39,690 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-02.parquet into green_taxi_trip_data
+2025-10-05 22:06:39,690 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-03.parquet
+2025-10-05 22:07:21,937 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-03.parquet into yellow_taxi_trip_data
+2025-10-05 22:07:21,937 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-03.parquet
+2025-10-05 22:07:25,649 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-03.parquet into green_taxi_trip_data
+2025-10-05 22:07:25,649 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-04.parquet
+2025-10-05 22:08:12,975 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-04.parquet into yellow_taxi_trip_data
+2025-10-05 22:08:12,975 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-04.parquet
+2025-10-05 22:08:21,258 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-04.parquet into green_taxi_trip_data
+2025-10-05 22:08:21,258 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-05.parquet
+2025-10-05 22:09:08,179 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-05.parquet into yellow_taxi_trip_data
+2025-10-05 22:09:08,179 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-05.parquet
+2025-10-05 22:09:11,394 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-05.parquet into green_taxi_trip_data
+2025-10-05 22:09:11,394 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-06.parquet
+2025-10-05 22:09:57,059 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-06.parquet into yellow_taxi_trip_data
+2025-10-05 22:09:57,059 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-06.parquet
+2025-10-05 22:10:00,140 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-06.parquet into green_taxi_trip_data
+2025-10-05 22:10:00,140 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-07.parquet
+2025-10-05 22:10:37,891 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-07.parquet into yellow_taxi_trip_data
+2025-10-05 22:10:37,891 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-07.parquet
+2025-10-05 22:10:40,863 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-07.parquet into green_taxi_trip_data
+2025-10-05 22:10:40,863 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-08.parquet
+2025-10-05 22:11:18,048 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-08.parquet into yellow_taxi_trip_data
+2025-10-05 22:11:18,048 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-08.parquet
+2025-10-05 22:11:21,678 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-08.parquet into green_taxi_trip_data
+2025-10-05 22:11:21,678 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-09.parquet
+2025-10-05 22:12:02,750 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-09.parquet into yellow_taxi_trip_data
+2025-10-05 22:12:02,750 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-09.parquet
+2025-10-05 22:12:05,768 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-09.parquet into green_taxi_trip_data
+2025-10-05 22:12:05,768 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-10.parquet
+2025-10-05 22:12:52,116 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-10.parquet into yellow_taxi_trip_data
+2025-10-05 22:12:52,116 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-10.parquet
+2025-10-05 22:12:55,292 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-10.parquet into green_taxi_trip_data
+2025-10-05 22:12:55,292 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-11.parquet
+2025-10-05 22:13:38,767 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-11.parquet into yellow_taxi_trip_data
+2025-10-05 22:13:38,767 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-11.parquet
+2025-10-05 22:13:41,741 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-11.parquet into green_taxi_trip_data
+2025-10-05 22:13:41,741 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-12.parquet
+2025-10-05 22:14:24,648 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-12.parquet into yellow_taxi_trip_data
+2025-10-05 22:14:24,648 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-12.parquet
+2025-10-05 22:14:27,711 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2022-12.parquet into green_taxi_trip_data
+2025-10-05 22:14:27,711 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-01.parquet
+2025-10-05 22:15:01,960 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-01.parquet into yellow_taxi_trip_data
+2025-10-05 22:15:01,960 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-01.parquet
+2025-10-05 22:15:05,039 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-01.parquet into green_taxi_trip_data
+2025-10-05 22:15:05,039 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-02.parquet
+2025-10-05 22:15:38,666 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-02.parquet into yellow_taxi_trip_data
+2025-10-05 22:15:38,666 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-02.parquet
+2025-10-05 22:15:42,644 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-02.parquet into green_taxi_trip_data
+2025-10-05 22:15:42,644 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-03.parquet
+2025-10-05 22:16:26,123 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-03.parquet into yellow_taxi_trip_data
+2025-10-05 22:16:26,123 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-03.parquet
+2025-10-05 22:16:29,659 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-03.parquet into green_taxi_trip_data
+2025-10-05 22:16:29,659 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-04.parquet
+2025-10-05 22:17:12,929 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-04.parquet into yellow_taxi_trip_data
+2025-10-05 22:17:12,929 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-04.parquet
+2025-10-05 22:17:17,126 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-04.parquet into green_taxi_trip_data
+2025-10-05 22:17:17,126 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-05.parquet
+2025-10-05 22:18:07,202 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-05.parquet into yellow_taxi_trip_data
+2025-10-05 22:18:07,202 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-05.parquet
+2025-10-05 22:18:10,298 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-05.parquet into green_taxi_trip_data
+2025-10-05 22:18:10,298 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-06.parquet
+2025-10-05 22:18:54,817 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-06.parquet into yellow_taxi_trip_data
+2025-10-05 22:18:54,817 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-06.parquet
+2025-10-05 22:18:57,961 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-06.parquet into green_taxi_trip_data
+2025-10-05 22:18:57,961 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-07.parquet
+2025-10-05 22:19:31,213 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-07.parquet into yellow_taxi_trip_data
+2025-10-05 22:19:31,213 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-07.parquet
+2025-10-05 22:19:35,402 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-07.parquet into green_taxi_trip_data
+2025-10-05 22:19:35,402 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-08.parquet
+2025-10-05 22:20:13,543 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-08.parquet into yellow_taxi_trip_data
+2025-10-05 22:20:13,543 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-08.parquet
+2025-10-05 22:20:16,592 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-08.parquet into green_taxi_trip_data
+2025-10-05 22:20:16,592 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-09.parquet
+2025-10-05 22:20:49,534 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-09.parquet into yellow_taxi_trip_data
+2025-10-05 22:20:49,534 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-09.parquet
+2025-10-05 22:20:53,069 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-09.parquet into green_taxi_trip_data
+2025-10-05 22:20:53,073 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-10.parquet
+2025-10-05 22:21:30,319 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-10.parquet into yellow_taxi_trip_data
+2025-10-05 22:21:30,319 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-10.parquet
+2025-10-05 22:21:33,315 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-10.parquet into green_taxi_trip_data
+2025-10-05 22:21:33,315 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-11.parquet
+2025-10-05 22:22:09,425 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-11.parquet into yellow_taxi_trip_data
+2025-10-05 22:22:09,425 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-11.parquet
+2025-10-05 22:22:12,567 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-11.parquet into green_taxi_trip_data
+2025-10-05 22:22:12,567 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-12.parquet
+2025-10-05 22:22:50,447 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-12.parquet into yellow_taxi_trip_data
+2025-10-05 22:22:50,447 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-12.parquet
+2025-10-05 22:22:53,937 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-12.parquet into green_taxi_trip_data
+2025-10-05 22:22:53,937 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet
+2025-10-05 22:23:27,664 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet into yellow_taxi_trip_data
+2025-10-05 22:23:27,664 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-01.parquet
+2025-10-05 22:23:31,796 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-01.parquet into green_taxi_trip_data
+2025-10-05 22:23:31,796 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-02.parquet
+2025-10-05 22:24:08,333 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-02.parquet into yellow_taxi_trip_data
+2025-10-05 22:24:08,333 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-02.parquet
+2025-10-05 22:24:11,912 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-02.parquet into green_taxi_trip_data
+2025-10-05 22:24:11,912 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-03.parquet
+2025-10-05 22:24:56,124 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-03.parquet into yellow_taxi_trip_data
+2025-10-05 22:24:56,124 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-03.parquet
+2025-10-05 22:25:00,865 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-03.parquet into green_taxi_trip_data
+2025-10-05 22:25:00,869 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-04.parquet
+2025-10-05 22:25:37,393 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-04.parquet into yellow_taxi_trip_data
+2025-10-05 22:25:37,393 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-04.parquet
+2025-10-05 22:25:41,816 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-04.parquet into green_taxi_trip_data
+2025-10-05 22:25:41,816 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-05.parquet
+2025-10-05 22:26:22,160 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-05.parquet into yellow_taxi_trip_data
+2025-10-05 22:26:22,160 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-05.parquet
+2025-10-05 22:26:26,819 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-05.parquet into green_taxi_trip_data
+2025-10-05 22:26:26,819 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-06.parquet
+2025-10-05 22:27:04,447 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-06.parquet into yellow_taxi_trip_data
+2025-10-05 22:27:04,447 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-06.parquet
+2025-10-05 22:27:08,480 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-06.parquet into green_taxi_trip_data
+2025-10-05 22:27:08,480 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-07.parquet
+2025-10-05 22:27:41,693 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-07.parquet into yellow_taxi_trip_data
+2025-10-05 22:27:41,693 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-07.parquet
+2025-10-05 22:27:45,812 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-07.parquet into green_taxi_trip_data
+2025-10-05 22:27:45,812 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-08.parquet
+2025-10-05 22:28:20,116 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-08.parquet into yellow_taxi_trip_data
+2025-10-05 22:28:20,116 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-08.parquet
+2025-10-05 22:28:24,552 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-08.parquet into green_taxi_trip_data
+2025-10-05 22:28:24,552 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-09.parquet
+2025-10-05 22:28:59,497 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-09.parquet into yellow_taxi_trip_data
+2025-10-05 22:28:59,497 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-09.parquet
+2025-10-05 22:29:03,501 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-09.parquet into green_taxi_trip_data
+2025-10-05 22:29:03,501 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-10.parquet
+2025-10-05 22:29:42,180 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-10.parquet into yellow_taxi_trip_data
+2025-10-05 22:29:42,180 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-10.parquet
+2025-10-05 22:29:46,327 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-10.parquet into green_taxi_trip_data
+2025-10-05 22:29:46,327 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-11.parquet
+2025-10-05 22:30:22,037 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-11.parquet into yellow_taxi_trip_data
+2025-10-05 22:30:22,037 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-11.parquet
+2025-10-05 22:30:26,386 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-11.parquet into green_taxi_trip_data
+2025-10-05 22:30:26,386 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-12.parquet
+2025-10-05 22:31:17,497 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-12.parquet into yellow_taxi_trip_data
+2025-10-05 22:31:17,497 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-12.parquet
+2025-10-05 22:31:22,138 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-12.parquet into green_taxi_trip_data
+2025-10-05 22:31:22,138 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet
+2025-10-05 22:32:01,641 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet into yellow_taxi_trip_data
+2025-10-05 22:32:01,641 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-01.parquet
+2025-10-05 22:32:04,623 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-01.parquet into green_taxi_trip_data
+2025-10-05 22:32:04,623 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-02.parquet
+2025-10-05 22:32:43,719 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-02.parquet into yellow_taxi_trip_data
+2025-10-05 22:32:43,719 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-02.parquet
+2025-10-05 22:32:46,673 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-02.parquet into green_taxi_trip_data
+2025-10-05 22:32:46,689 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-03.parquet
+2025-10-05 22:33:39,569 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-03.parquet into yellow_taxi_trip_data
+2025-10-05 22:33:39,569 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-03.parquet
+2025-10-05 22:33:43,392 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-03.parquet into green_taxi_trip_data
+2025-10-05 22:33:43,392 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-04.parquet
+2025-10-05 22:34:30,552 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-04.parquet into yellow_taxi_trip_data
+2025-10-05 22:34:30,552 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-04.parquet
+2025-10-05 22:34:33,536 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-04.parquet into green_taxi_trip_data
+2025-10-05 22:34:33,536 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-05.parquet
+2025-10-05 22:35:17,945 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-05.parquet into yellow_taxi_trip_data
+2025-10-05 22:35:17,945 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-05.parquet
+2025-10-05 22:35:21,356 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-05.parquet into green_taxi_trip_data
+2025-10-05 22:35:21,356 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-06.parquet
+2025-10-05 22:36:09,054 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-06.parquet into yellow_taxi_trip_data
+2025-10-05 22:36:09,054 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-06.parquet
+2025-10-05 22:36:12,013 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-06.parquet into green_taxi_trip_data
+2025-10-05 22:36:12,013 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-07.parquet
+2025-10-05 22:36:58,870 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-07.parquet into yellow_taxi_trip_data
+2025-10-05 22:36:58,870 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-07.parquet
+2025-10-05 22:37:05,086 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-07.parquet into green_taxi_trip_data
+2025-10-05 22:37:05,086 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-08.parquet
+2025-10-05 22:38:01,904 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-08.parquet into yellow_taxi_trip_data
+2025-10-05 22:38:01,904 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-08.parquet
+2025-10-05 22:38:04,861 - INFO - Inserted https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-08.parquet into green_taxi_trip_data
+2025-10-05 22:38:04,861 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-09.parquet
+2025-10-05 22:38:10,110 - ERROR - FAILED https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-09.parquet | HTTP Error: Unable to connect to URL "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-09.parquet": 403 (Forbidden).
+2025-10-05 22:38:10,125 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-09.parquet
+2025-10-05 22:38:15,081 - ERROR - FAILED https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-09.parquet | HTTP Error: Unable to connect to URL "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-09.parquet": 403 (Forbidden).
+2025-10-05 22:38:15,081 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-10.parquet
+2025-10-05 22:38:20,252 - ERROR - FAILED https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-10.parquet | HTTP Error: Unable to connect to URL "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-10.parquet": 403 (Forbidden).
+2025-10-05 22:38:20,252 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-10.parquet
+2025-10-05 22:38:25,224 - ERROR - FAILED https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-10.parquet | HTTP Error: Unable to connect to URL "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-10.parquet": 403 (Forbidden).
+2025-10-05 22:38:25,224 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-11.parquet
+2025-10-19 10:54:31,573 - ERROR - FAILED https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-11.parquet | HTTP Error: Unable to connect to URL "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-11.parquet": 403 (Forbidden).
+2025-10-19 10:54:31,573 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-11.parquet
+2025-10-19 10:54:32,133 - ERROR - FAILED https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-11.parquet | IO Error: Could not establish connection error for HTTP HEAD to 'https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-11.parquet'
+2025-10-19 10:54:32,148 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-12.parquet
+2025-10-19 10:54:32,676 - ERROR - FAILED https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-12.parquet | IO Error: Could not establish connection error for HTTP HEAD to 'https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-12.parquet'
+2025-10-19 10:54:32,676 - INFO - Downloading https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-12.parquet
+2025-10-19 10:54:33,191 - ERROR - FAILED https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-12.parquet | IO Error: Could not establish connection error for HTTP HEAD to 'https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-12.parquet'
+2025-10-19 10:54:33,191 - INFO - Pipeline finished.

@@ -1,0 +1,312 @@
+--ASSIGNMENT 3B--
+--Question 1--
+
+Green Taxi - Revenue
+Manhattan had the highest total revenue
+┌───────────────┬───────────────┐
+│    Borough    │ total_revenue │
+│    varchar    │    double     │
+├───────────────┼───────────────┤
+│ Manhattan     │    9572861.04 │
+│ Queens        │    5332319.18 │
+│ Brooklyn      │    3317679.92 │
+│ Bronx         │     456450.74 │
+│ N/A           │      51088.85 │
+│ Unknown       │      37219.03 │
+│ Staten Island │       4985.36 │
+│ EWR           │        4098.2 │
+└───────────────┴───────────────┘
+
+Yellow Taxi - Revenue
+Manhattan had the highest total revenue
+┌───────────────┬───────────────┐
+│    Borough    │ total_revenue │
+│    varchar    │    double     │
+├───────────────┼───────────────┤
+│ Manhattan     │  727336684.53 │
+│ Queens        │  237851647.42 │
+│ Unknown       │    9693480.25 │
+│ Brooklyn      │    8534763.53 │
+│ N/A           │     2504784.4 │
+│ Bronx         │    2077361.95 │
+│ EWR           │     475156.31 │
+│ Staten Island │     143781.54 │
+└───────────────┴───────────────┘
+
+Overally Yellow taxis in Manhattan had the highest total revenue
+--Question 2--
+Green Taxi
+┌───────────────────────┬─────────────┐
+│         Zone          │ no_of_trips │
+│        varchar        │    int64    │
+├───────────────────────┼─────────────┤
+│ East Harlem South     │       39969 │
+│ East Harlem North     │       38671 │
+│ Upper East Side North │       31955 │
+│ Central Harlem        │       29140 │
+│ Upper West Side North │       26711 │
+└───────────────────────┴─────────────┘
+
+Yellow Taxi
+┌───────────────────────────┬─────────────┐
+│           Zone            │ no_of_trips │
+│          varchar          │    int64    │
+├───────────────────────────┼─────────────┤
+│ Upper East Side North     │     1516578 │
+│ Upper East Side South     │     1449346 │
+│ Midtown Center            │     1347882 │
+│ Times Sq/Theatre District │     1073804 │
+│ Murray Hill               │     1026813 │
+└───────────────────────────┴─────────────┘
+
+--Question 3--
+Green Taxi - Preferred mode of payment is Credit card
+┌────────────────┬─────────────┐
+│ payment_method │ no_of_trips │
+│    varchar     │    int64    │
+├────────────────┼─────────────┤
+│ Credit card    │      481902 │
+│ Cash           │      242401 │
+│ Other          │       62757 │
+└────────────────┴─────────────┘
+
+Yellow Taxi - Preferred mode of payment is Credit card
+┌────────────────┬─────────────┐
+│ payment_method │ no_of_trips │
+│    varchar     │    int64    │
+├────────────────┼─────────────┤
+│ Credit card    │    27098799 │
+│ Cash           │     5815059 │
+│ Other          │     1882719 │
+└────────────────┴─────────────┘
+
+--Question 4A --
+--Green Taxi--
+┌───────────────────────────────┐
+│             Zone              │
+│            varchar            │
+├───────────────────────────────┤
+│ Allerton/Pelham Gardens       │
+│ Alphabet City                 │
+│ Arden Heights                 │
+│ Arrochar/Fort Wadsworth       │
+│ Astoria                       │
+│ Astoria Park                  │
+│ Auburndale                    │
+│ Baisley Park                  │
+│ Bath Beach                    │
+│ Battery Park                  │
+│ Battery Park City             │
+│ Bay Ridge                     │
+│ Bay Terrace/Fort Totten       │
+│ Bayside                       │
+│ Bedford                       │
+│ Bedford Park                  │
+│ Bellerose                     │
+│ Belmont                       │
+│ Bensonhurst East              │
+│ Bensonhurst West              │
+│        ·                      │
+│        ·                      │
+│        ·                      │
+│ Washington Heights South      │
+│ West Brighton                 │
+│ West Chelsea/Hudson Yards     │
+│ West Concourse                │
+│ West Farms/Bronx River        │
+│ West Village                  │
+│ Westchester Village/Unionport │
+│ Westerleigh                   │
+│ Whitestone                    │
+│ Willets Point                 │
+│ Williamsbridge/Olinville      │
+│ Williamsburg (North Side)     │
+│ Williamsburg (South Side)     │
+│ Windsor Terrace               │
+│ Woodhaven                     │
+│ Woodlawn/Wakefield            │
+│ Woodside                      │
+│ World Trade Center            │
+│ Yorkville East                │
+│ Yorkville West                │
+├───────────────────────────────┤
+│      259 rows (40 shown)      │
+└───────────────────────────────┘
+
+--Yellow Taxi--
+┌───────────────────────────────┐
+│             Zone              │
+│            varchar            │
+├───────────────────────────────┤
+│ Allerton/Pelham Gardens       │
+│ Alphabet City                 │
+│ Arden Heights                 │
+│ Arrochar/Fort Wadsworth       │
+│ Astoria                       │
+│ Astoria Park                  │
+│ Auburndale                    │
+│ Baisley Park                  │
+│ Bath Beach                    │
+│ Battery Park                  │
+│ Battery Park City             │
+│ Bay Ridge                     │
+│ Bay Terrace/Fort Totten       │
+│ Bayside                       │
+│ Bedford                       │
+│ Bedford Park                  │
+│ Bellerose                     │
+│ Belmont                       │
+│ Bensonhurst East              │
+│ Bensonhurst West              │
+│        ·                      │
+│        ·                      │
+│        ·                      │
+│ Washington Heights South      │
+│ West Brighton                 │
+│ West Chelsea/Hudson Yards     │
+│ West Concourse                │
+│ West Farms/Bronx River        │
+│ West Village                  │
+│ Westchester Village/Unionport │
+│ Westerleigh                   │
+│ Whitestone                    │
+│ Willets Point                 │
+│ Williamsbridge/Olinville      │
+│ Williamsburg (North Side)     │
+│ Williamsburg (South Side)     │
+│ Windsor Terrace               │
+│ Woodhaven                     │
+│ Woodlawn/Wakefield            │
+│ Woodside                      │
+│ World Trade Center            │
+│ Yorkville East                │
+│ Yorkville West                │
+├───────────────────────────────┤
+│      261 rows (40 shown)      │
+└───────────────────────────────┘
+
+--Question 4B--
+--Yello Taxi Zones Only--
+
+┌───────────────────────────────────────────────┐
+│                     Zone                      │
+│                    varchar                    │
+├───────────────────────────────────────────────┤
+│ Arden Heights                                 │
+│ Battery Park                                  │
+│ Charleston/Tottenville                        │
+│ Eltingville/Annadale/Prince's Bay             │
+│ Freshkills Park                               │
+│ Governor's Island/Ellis Island/Liberty Island │
+│ Great Kills Park                              │
+│ Jamaica Bay                                   │
+│ Rikers Island                                 │
+│ Rossville/Woodrow                             │
+├───────────────────────────────────────────────┤
+│                    10 rows                    │
+└───────────────────────────────────────────────┘
+
+
+--Question 5--
+┌─────────────┬───────────────┬───────────────┐
+│ pickup_date │ total_revenue │ avg_fare_amnt │
+│    date     │    double     │    double     │
+├─────────────┼───────────────┼───────────────┤
+│ 2023-12-14  │    4352099.98 │         30.02 │
+│ 2023-12-15  │    4112286.06 │         29.01 │
+│ 2023-12-07  │    4073480.38 │         30.05 │
+│ 2023-12-13  │    3937821.93 │         28.89 │
+│ 2023-10-12  │    3889856.52 │         30.48 │
+│ 2023-11-09  │    3883716.45 │         30.05 │
+│ 2023-10-26  │    3866218.13 │         29.73 │
+│ 2023-12-08  │    3856757.54 │         29.04 │
+│ 2023-10-19  │    3840395.24 │         30.03 │
+│ 2023-11-16  │    3812016.92 │         29.03 │
+│ 2023-12-06  │    3799393.17 │         29.32 │
+│ 2023-09-28  │    3792876.37 │         29.76 │
+│ 2023-10-27  │    3777099.28 │         29.66 │
+│ 2023-09-07  │    3761284.11 │         29.07 │
+│ 2023-12-01  │    3759693.39 │         29.16 │
+│ 2023-11-30  │    3753708.04 │         30.03 │
+│ 2023-11-02  │    3745147.03 │         29.16 │
+│ 2023-06-15  │    3742442.92 │         29.25 │
+│ 2023-09-14  │    3734672.26 │         29.85 │
+│ 2023-09-08  │    3729095.42 │         29.91 │
+│     ·       │         ·     │            ·  │
+│     ·       │         ·     │            ·  │
+│     ·       │         ·     │            ·  │
+│ 2023-06-01  │    3599089.87 │          29.2 │
+│ 2023-11-08  │    3595953.14 │         28.91 │
+│ 2023-11-01  │    3582433.96 │         28.31 │
+│ 2023-03-16  │    3581030.52 │         28.87 │
+│ 2023-06-07  │    3578640.61 │         28.91 │
+│ 2023-10-18  │    3574966.25 │         29.68 │
+│ 2023-11-17  │    3570888.37 │         29.27 │
+│ 2023-10-25  │    3567349.86 │         29.75 │
+│ 2023-11-03  │    3559306.82 │         29.05 │
+│ 2023-11-10  │    3552684.14 │         28.21 │
+│ 2023-12-05  │    3525090.02 │         29.17 │
+│ 2023-04-28  │    3521923.33 │         28.59 │
+│ 2023-06-22  │     3521509.3 │         28.95 │
+│ 2023-06-14  │    3515088.21 │         28.65 │
+│ 2023-11-28  │    3507434.87 │         29.15 │
+│ 2023-06-12  │    3506748.63 │         32.69 │
+│ 2023-09-29  │     3503113.5 │         33.33 │
+│ 2023-06-06  │     3475176.7 │         28.68 │
+│ 2023-09-13  │    3473394.94 │         29.28 │
+│ 2023-10-13  │    3470402.23 │         29.34 │
+├─────────────┴───────────────┴───────────────┤
+│ 50 rows (40 shown)                3 columns │
+└─────────────────────────────────────────────┘
+
+--Question 5B--
+┌───────────┬──────────┬───────────────┬──────────┐
+│ tripMonth │ trip_day │ daily_revenue │ day_rank │
+│  varchar  │  int64   │    double     │  int64   │
+├───────────┼──────────┼───────────────┼──────────┤
+│ 2023-01   │        2 │         30.91 │        1 │
+│ 2023-01   │        1 │         30.59 │        2 │
+│ 2023-01   │        3 │          29.0 │        3 │
+│ 2023-01   │       16 │         28.67 │        4 │
+│ 2023-01   │        8 │         28.28 │        5 │
+│ 2023-02   │       20 │         29.24 │        1 │
+│ 2023-02   │       26 │         28.33 │        2 │
+│ 2023-02   │       15 │         28.01 │        3 │
+│ 2023-02   │       27 │         27.95 │        4 │
+│ 2023-02   │        5 │         27.93 │        5 │
+│ 2023-03   │       20 │         29.88 │        1 │
+│ 2023-03   │       26 │         29.39 │        2 │
+│ 2023-03   │       19 │         29.29 │        3 │
+│ 2023-03   │       17 │         28.95 │        4 │
+│ 2023-03   │       16 │         28.87 │        5 │
+│ 2023-04   │       23 │         30.36 │        1 │
+│ 2023-04   │       24 │         30.13 │        2 │
+│ 2023-04   │       30 │         29.88 │        3 │
+│ 2023-04   │       17 │         29.79 │        4 │
+│ 2023-04   │       27 │         29.62 │        5 │
+│    ·      │        · │           ·   │        · │
+│    ·      │        · │           ·   │        · │
+│    ·      │        · │           ·   │        · │
+│ 2023-09   │       29 │         33.33 │        1 │
+│ 2023-09   │       18 │         32.07 │        2 │
+│ 2023-09   │        4 │         31.94 │        3 │
+│ 2023-09   │       17 │         31.75 │        4 │
+│ 2023-09   │        5 │         31.29 │        5 │
+│ 2023-10   │       23 │         30.68 │        1 │
+│ 2023-10   │        9 │         30.66 │        2 │
+│ 2023-10   │       12 │         30.48 │        3 │
+│ 2023-10   │       16 │         30.29 │        4 │
+│ 2023-10   │        2 │          30.2 │        5 │
+│ 2023-11   │       26 │         30.81 │        1 │
+│ 2023-11   │       27 │         30.77 │        2 │
+│ 2023-11   │        6 │         30.42 │        3 │
+│ 2023-11   │        9 │         30.05 │        4 │
+│ 2023-11   │       30 │         30.03 │        5 │
+│ 2023-12   │       27 │         30.22 │        1 │
+│ 2023-12   │       26 │         30.21 │        2 │
+│ 2023-12   │       28 │         30.13 │        3 │
+│ 2023-12   │        4 │         30.11 │        4 │
+│ 2023-12   │        7 │         30.05 │        5 │
+├───────────┴──────────┴───────────────┴──────────┤
+│ 59 rows (40 shown)                    4 columns │
+└─────────────────────────────────────────────────┘
